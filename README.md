@@ -22,7 +22,7 @@ To run the tests, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/HellionZero/Shell_test_suite.git
    ```
 
 2. Navigate to the test suite directory:
