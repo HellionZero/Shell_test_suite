@@ -33,7 +33,10 @@ To run the tests, follow these steps:
    ```bash
    ./run_all_tests.sh
    ```
-if you want to run specific tests, you can execute individual test scripts located in the `tests` directory.
+if you want to run specific tests, you can execute each test script individually, for example:
+   ```bash
+   ./test_command_execution.sh
+   ```
 
 to know more about the usage of the test suite, please check also the my minishell repository, where you can find a detailed explanation of the test suite and how to use it effectively.
 visit https://github.com/HellionZero/my_first_shell to see the test suite in action and to understand how to integrate it with your own Minishell implementation.
